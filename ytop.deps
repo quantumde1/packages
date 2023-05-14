@@ -1,3 +1,4 @@
 {
-  "deps": "busybox"
+  "deps": "busybox",
+  "signature": "06c3f823fa69ec2d096a063d079994b4"
 }
